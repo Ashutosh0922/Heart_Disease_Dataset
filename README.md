@@ -64,13 +64,3 @@ This project demonstrates the use of tree-based models — Decision Tree and Ran
 
 ---
 
-## 📌 Usage
-
-1. Make sure you have `heart.csv` in the working directory.
-2. Install dependencies:
-    ```bash
-    pip install pandas numpy scikit-learn matplotlib
-    ```
-3. Run each Python block in sequence, or use the full version in `main.py` or a Jupyter Notebook.
-
----
